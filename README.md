@@ -23,6 +23,18 @@ Civic Shield is a secure web-based e-voting system designed for conducting colle
 
 ---
 
+
+💻 Requirements
+Software Requirements
+Web Browser (Chrome / Edge)
+Supabase Account
+Internet Connection
+Hardware Requirements
+Basic Computer/Laptop
+Minimum 4GB RAM
+
+---
+
 ## ⚙️ Features
 
 * 🔐 Secure login with OTP authentication
@@ -41,14 +53,6 @@ Civic Shield is a secure web-based e-voting system designed for conducting colle
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository
-2. Open the project folder
-3. Configure Supabase credentials
-4. Run the project in a web browser
-
----
 
 ## 📸 Screenshots
 
