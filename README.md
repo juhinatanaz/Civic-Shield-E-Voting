@@ -52,20 +52,21 @@ Civic Shield is a secure web-based e-voting system designed for conducting colle
 
 ## 📸 Screenshots
 
+
 ### 🔐 Login Page
-![Login](login.jpeg)
+![Login](screenshots/login.jpeg)
 
 ### 🔑 OTP Verification
-![OTP](otp_verification.jpeg)
+![OTP](screenshots/otp_verification.jpeg)
 
 ### 🗳 Voting Interface
-![Voting](voting_interface.jpeg)
+![Voting](screenshots/voting_interface.jpeg)
 
 ### 📊 Admin Dashboard
-![Dashboard](admin_dashboard.jpeg)
+![Dashboard](screenshots/admin_dashboard.jpeg)
 
 ### 📈 Results Page
-![Results](result.jpeg)
+![Results](screenshots/result.jpeg)
 
 
 ---
