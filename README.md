@@ -25,13 +25,13 @@ Civic Shield is a secure web-based e-voting system designed for conducting colle
 
 
 💻 Requirements
-Software Requirements
-Web Browser (Chrome / Edge)
-Supabase Account
-Internet Connection
-Hardware Requirements
-Basic Computer/Laptop
-Minimum 4GB RAM
+*Software Requirements
+*Web Browser (Chrome / Edge)
+*Supabase Account
+*Internet Connection
+*Hardware Requirements
+*Basic Computer/Laptop
+*Minimum 4GB RAM
 
 ---
 
